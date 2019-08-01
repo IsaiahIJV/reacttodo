@@ -42,5 +42,3 @@ AddTodo.propTypes = {
 };
 
 export default AddTodo;
-
-// 1:04:48
